@@ -1,7 +1,4 @@
 html, body {
-  min-height: 100%;
-  font-weight: 300;
-  line-height: 1.5;
   background-color: #f5f3ee;
 }
 
@@ -10,7 +7,7 @@ body {
   background-position: center top;
   background-size: cover;
   background-color: black;
-  margin: 700;
+  margin: 2000;
   color: white;
 }
 
