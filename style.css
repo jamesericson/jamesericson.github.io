@@ -5,8 +5,15 @@ html, body {
 body {
   background-position: center top;
   background-color: white;
+  margin: 200px;
   padding: 50px;
   color: #9d9d9d;
+}
+
+.name {
+  position:center;
+  font-family: impact;
+  color: black;
 }
 
 .catigory {
