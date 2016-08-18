@@ -1,21 +1,20 @@
 html, body {
   background-color: #f5f3ee;
-  margin: 7000;
 }
 
 body {
   background-position: center top;
   background-color: white;
-  padding: 5000;
+  padding: 50;
   color: #9d9d9d;
 }
 
-h{
+h1 {
   font-family: impact, helvetica;
   color:black;
 }
 
-p{
+p {
   font-family: futura;
   color: #9d9d9d;
 }
