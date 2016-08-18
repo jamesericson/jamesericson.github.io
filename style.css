@@ -1,11 +1,24 @@
+html, body {
+  min-height: 100%;
+  display: flex;
+  font-weight: 300;
+  line-height: 1.5;
+  background-color: blue;
+}
+
 body {
   font-family: 'Lato', sans-serif;
   background-position: center top;
   background-size: cover;
   background-color: black;
   margin: 40;
+  color: white;
 }
 
-p {
-  color: white;
+h1{
+  color:green;
+}
+
+h2{
+  color:red;
 }
