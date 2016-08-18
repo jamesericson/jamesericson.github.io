@@ -6,15 +6,15 @@ body {
   font-family: 'Lato', sans-serif;
   background-position: center top;
   background-size: cover;
-  background-color: black;
-  margin: 2000;
-  color: white;
+  background-color: white;
+  margin: 5000;
+  color: #9d9d9d;
 }
 
 h1{
-  color:green;
+  font-family: helvetica;
 }
 
-h2{
-  color:red;
+h{
+  color:black;
 }
