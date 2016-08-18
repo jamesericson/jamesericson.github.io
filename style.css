@@ -5,11 +5,11 @@ html, body {
 body {
   background-position: center top;
   background-color: white;
-  padding: 50;
+  padding: 500px;
   color: #9d9d9d;
 }
 
-h1, h2 {
+.catigory {
   font-family: impact, helvetica;
   color:black;
 }
