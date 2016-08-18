@@ -1,9 +1,8 @@
 html, body {
   min-height: 100%;
-  display: flex;
   font-weight: 300;
   line-height: 1.5;
-  background-color: blue;
+  background-color: #f5f3ee;
 }
 
 body {
@@ -11,7 +10,7 @@ body {
   background-position: center top;
   background-size: cover;
   background-color: black;
-  margin: 40;
+  margin: 700;
   color: white;
 }
 
