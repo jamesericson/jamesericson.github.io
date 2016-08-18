@@ -5,16 +5,12 @@ html, body {
 body {
   font-family: 'Lato', sans-serif;
   background-position: center top;
-  background-size: cover;
   background-color: white;
   margin: 5000;
   color: #9d9d9d;
 }
 
-h1{
-  font-family: helvetica;
-}
-
 h{
+  font-family: helvetica;
   color:black;
 }
