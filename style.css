@@ -1,16 +1,12 @@
 html, body {
   background-color: #f5f3ee;
+  margin: 7000;
 }
 
 body {
   background-position: center top;
   background-color: white;
-  margin: 5000;
-  color: #9d9d9d;
-}
-
-p{
-  font-family: futura;
+  padding: 5000;
   color: #9d9d9d;
 }
 
@@ -18,3 +14,10 @@ h{
   font-family: impact, helvetica;
   color:black;
 }
+
+p{
+  font-family: futura;
+  color: #9d9d9d;
+}
+
+
