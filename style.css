@@ -10,9 +10,11 @@ body {
   color: #9d9d9d;
 }
 
-hr {
-  margin: 400px;
-  color: blue;
+.aligncenter {
+  position: center;
+  width:200px;
+  height:2px;
+  font-size:0;"
 }
 
 .name {
