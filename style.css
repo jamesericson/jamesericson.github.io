@@ -11,6 +11,7 @@ body {
 }
 
 .contact_info {
+  background-position: center top;
   font-family: times;
   font-size: 12px;
 }
