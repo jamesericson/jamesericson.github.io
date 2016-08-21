@@ -11,7 +11,7 @@ body {
 }
 
 .aligncenter {
-  position: center;
+  background-position: center;
   width:200px;
   height:70px;
   font-size:0;"
