@@ -22,6 +22,14 @@ body {
   color: black;
 }
 
+.contact_info {
+  text-align: center;
+}
+
+.abstract {
+  text-align: center;
+}
+
 .catigory {
   font-family: impact, helvetica;
   color:black;
