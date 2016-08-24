@@ -18,8 +18,7 @@ body {
 
 .name {
   display: inline;
-  background-position: center;
-  justify-content: center;
+  position: center;
   color: black;
 }
 
