@@ -24,7 +24,9 @@ body {
 
 .name {
   display: inline;
-  position: center;
+  position: relative;
+  justify-content: center;
+  top: 100px;
   color: black;
 }
 
@@ -38,7 +40,7 @@ body {
 
 .catigory {
   font-family: impact, helvetica;
-  color:red;
+  color:black;
 }
 
 p {
