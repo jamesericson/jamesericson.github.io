@@ -10,6 +10,12 @@ body {
   color: #9d9d9d;
 }
 
+.portrait {
+  position: relative;
+  top: -20px;
+  right: -30px;
+}
+
 .contact_info {
   background-position: center top;
   font-family: times;
