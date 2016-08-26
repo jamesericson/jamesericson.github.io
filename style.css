@@ -25,8 +25,8 @@ body {
 .name {
   display: inline;
   position: relative;
-  text-align: center;
-  top: -100px;
+  text-align: justify;
+  top: -300px;
   color: black;
 }
 
