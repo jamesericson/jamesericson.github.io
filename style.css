@@ -12,8 +12,9 @@ body {
 
 .portrait {
   position: absolute;
-  top: 120px;
-  left: 100px;
+  top: 100px;
+  left: 80px;
+  z-index: -1;
 }
 
 .contact_info {
