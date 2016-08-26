@@ -11,7 +11,7 @@ body {
 }
 
 .portrait {
-  position: static;
+  position: absolute;
   top: -115px;
   left: -150px;
 }
@@ -25,7 +25,7 @@ body {
 .name {
   display: inline;
   position: relative;
-  text-align: justify;
+  text-align: center;
   top: -100px;
   color: black;
 }
