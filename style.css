@@ -12,7 +12,7 @@ body {
 
 .portrait {
   position: relative;
-  top: -100px;
+  top: -115px;
   left: -150px;
 }
 
@@ -25,7 +25,8 @@ body {
 .name {
   display: inline;
   position: relative;
-  top: 100px;
+  text-align: center;
+  top: -100px;
   color: black;
 }
 
