@@ -14,7 +14,11 @@ body {
   position: absolute;
   top: 100px;
   left: 80px;
-  z-index: -1;
+}
+
+.neon {
+  position: static;
+  right: 0px;
 }
 
 .contact_info {
@@ -27,7 +31,7 @@ body {
   display: inline;
   position: relative;
   text-align: center;
-  top: -100px;
+  top: 50px;
   color: black;
 }
 
