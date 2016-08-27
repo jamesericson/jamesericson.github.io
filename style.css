@@ -12,13 +12,13 @@ body {
 
 .portrait {
   position: absolute;
-  top: 70px;
-  left: 50px;
+  top: 80px;
+  left: 60px;
 }
 
 .neon {
   position: static;
-  right: 0px;
+  left: 0px;
 }
 
 .contact_info {
@@ -28,11 +28,11 @@ body {
 }
 
 .name {
-  display: inline;
   position: relative;
   text-align: center;
-  top: 50px;
-  color: black;
+  display: inline;
+  top: 90px;
+  color: blue;
 }
 
 .contact_info {
