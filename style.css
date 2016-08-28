@@ -17,11 +17,13 @@ body {
 }
 
 .name {
-  position: absolute;
   display: inline;
-  color: grey;
+  color: yellow;
 }
 
+.header {
+  text-align: center;
+}
 
 .contact_info {
   background-position: center top;
