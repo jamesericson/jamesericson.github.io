@@ -16,14 +16,14 @@ body {
   left: 60px;
 }
 
-header{
+.header {
   margin: 0, auto;
   border: 2px;
 }
 
 .name {
   display:inline-block;
-  color: orange;
+  color: red;
 }
 
 
