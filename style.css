@@ -18,15 +18,12 @@ body {
 
 .header {
   text-align: center;
-  margin: 0, auto;
 }
 
 .name {
   display:inline-block;
-  color: black;
+  color: grey;
 }
-
-
 
 .contact_info {
   background-position: center top;
@@ -43,6 +40,7 @@ body {
 
 .abstract {
   text-align: center;
+  top: 200px;
 }
 
 .catigory {
