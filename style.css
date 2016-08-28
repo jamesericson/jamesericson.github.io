@@ -17,8 +17,10 @@ body {
 }
 
 .header {
+  position: right;
   width: 250px;
   text-align: right;
+  border: 2px solid black;
 }
 
 .name {
