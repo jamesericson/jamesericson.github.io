@@ -18,10 +18,10 @@ body {
 
 .name {
   position: absolute;
+  display: inline;
   top: 60px;
   left: 60;
-  display: inline;
-  color: grey;
+  color: green;
 }
 
 
