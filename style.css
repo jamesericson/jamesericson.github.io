@@ -17,8 +17,7 @@ body {
 }
 
 .name {
-  background-position: center top;
-  text-align: center inline;
+  text-align: center;
   color: green;
 }
 
