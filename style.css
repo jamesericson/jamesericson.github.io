@@ -17,8 +17,7 @@ body {
 }
 
 .header {
-  position: right;
-  width: 250px;
+  margin-left: 250px;
   text-align: right;
   border: 2px solid black;
 }
