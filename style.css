@@ -26,7 +26,7 @@ body {
 }
 
 .contact_info {
-  background-position: center top;
+  margin-top: 30px;
   font-family: times;
   font-size: 11px;
   text-align: center;
@@ -40,7 +40,6 @@ body {
 
 .abstract {
   text-align: center;
-  margin-top: 30px;
 }
 
 .catigory {
