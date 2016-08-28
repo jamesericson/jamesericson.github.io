@@ -22,7 +22,14 @@ body {
 
 .name {
   display:inline-block;
+  font-size: 25px;
   color: black;
+}
+
+.neon {
+  position: absolute;
+  margin-top: 20px;
+  right: 160px;
 }
 
 .contact_info {
@@ -32,18 +39,13 @@ body {
   text-align: center;
 }
 
-.neon {
-  position: absolute;
-  right: 160px;
-}
-
-
 .abstract {
   text-align: center;
 }
 
 .catigory {
   font-family: impact, helvetica;
+  margin-left: -5px;
   color:black;
 }
 
