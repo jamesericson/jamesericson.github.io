@@ -18,8 +18,8 @@ body {
 
 .name {
   background-position: center top;
-  text-align: center;
-  color: red;
+  text-align: center inline;
+  color: green;
 }
 
 
