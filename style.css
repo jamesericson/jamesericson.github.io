@@ -19,7 +19,7 @@ body {
 .name {
   display: inline;
   margin: auto;
-  color: yellow;
+  color: grey;
 }
 
 .header {
