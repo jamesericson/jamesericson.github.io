@@ -22,13 +22,12 @@ body {
 
 .name {
   display:inline-block;
-  font-size: 75px;
+  font-size: 60px;
   color: black;
 }
 
 .neon {
   position: absolute;
-  margin-top: 20px;
   right: 160px;
 }
 
@@ -44,8 +43,8 @@ body {
 }
 
 .catigory {
-  font-family: impact, helvetica;
-  margin-left: -20px;
+  font-family: helvetica;
+  margin-left: -15px;
   color:black;
 }
 
