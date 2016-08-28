@@ -17,8 +17,8 @@ body {
 }
 
 .name {
-
-  margin: auto;
+  background-position: center top;
+ 
   color: red;
 }
 
