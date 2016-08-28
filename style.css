@@ -16,9 +16,13 @@ body {
   left: 60px;
 }
 
-.name {
+.header{
   text-align: center;
-  color: green;
+}
+
+.name {
+  position: inline;
+  color: grey;
 }
 
 
