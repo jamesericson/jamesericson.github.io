@@ -16,28 +16,27 @@ body {
   left: 60px;
 }
 
+.name {
+  position: absolute;
+  top: 60px;
+  left: 60;
+  display: inline;
+  color: grey;
+}
+
+
+.contact_info {
+  background-position: center top;
+  font-family: times;
+  font-size: 11px;
+  text-align: center;
+}
+
 .neon {
   position: static;
   left: 0px;
 }
 
-.contact_info {
-  background-position: center top;
-  font-family: times;
-  font-size: 12px;
-}
-
-.name {
-  position: relative;
-  text-align: center;
-  display: inline;
-  top: 90px;
-  color: blue;
-}
-
-.contact_info {
-  text-align: center;
-}
 
 .abstract {
   text-align: center;
