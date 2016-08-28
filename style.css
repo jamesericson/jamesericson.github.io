@@ -22,7 +22,7 @@ body {
 
 .name {
   display:inline-block;
-  font-size: 25px;
+  font-size: 75px;
   color: black;
 }
 
@@ -33,7 +33,7 @@ body {
 }
 
 .contact_info {
-  margin-top: 30px;
+  margin-top: 40px;
   font-family: times;
   font-size: 11px;
   text-align: center;
@@ -45,7 +45,7 @@ body {
 
 .catigory {
   font-family: impact, helvetica;
-  margin-left: -5px;
+  margin-left: -20px;
   color:black;
 }
 
