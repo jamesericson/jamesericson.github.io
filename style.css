@@ -24,7 +24,7 @@ body {
 
 .name {
   display:inline-block;
-  color: red;
+  color: black;
 }
 
 
@@ -37,8 +37,8 @@ body {
 }
 
 .neon {
-  position: static;
-  left: 0px;
+  position: absolute;
+  right: 0px;
 }
 
 
