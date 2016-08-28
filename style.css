@@ -21,8 +21,8 @@ body {
 }
 
 .name {
-  position: inline;
-  color: grey;
+  display:inline-block;
+  color: green;
 }
 
 
