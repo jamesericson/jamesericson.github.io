@@ -18,11 +18,13 @@ body {
 
 .name {
   display: inline;
+  margin: auto;
   color: yellow;
 }
 
 .header {
-  text-align: center;
+  position: static;
+  top: 100px;
 }
 
 .contact_info {
