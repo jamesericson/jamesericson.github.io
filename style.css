@@ -19,6 +19,7 @@ body {
 .header {
   margin-left: 100px;
   text-align: right;
+  padding: 4px;
 }
 
 .name {
