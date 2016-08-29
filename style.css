@@ -23,7 +23,7 @@ body {
 }
 
 .name {
-  display:inline-block;
+  display:inline;
   font-size: 60px;
   padding: 4px;
   color: black;
