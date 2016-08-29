@@ -1,5 +1,6 @@
 html, body {
   background-color: #f5f3ee;
+  min-width: 500px;
 }
 
 body {
@@ -26,7 +27,6 @@ body {
   display:inline;
   font-size: 60px;
   margin: -5px;
-  border: 2px solid purple;
   color: black;
 }
 
