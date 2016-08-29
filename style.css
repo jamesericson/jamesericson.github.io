@@ -19,14 +19,13 @@ body {
 .header {
   margin-left: 100px;
   text-align: right;
-  padding: 4px;
 }
 
 .name {
   display:inline;
   font-size: 60px;
-  margin: -10px;
-  padding: -10px;
+  margin-bottom: -30px;
+  padding: 0px;
   border: 2px solid purple;
   color: black;
 }
