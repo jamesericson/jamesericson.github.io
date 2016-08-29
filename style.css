@@ -25,7 +25,7 @@ body {
 .name {
   display:inline;
   font-size: 60px;
-  margin: 0px;
+  margin: -10px;
   padding: 0px;
   border: 2px solid purple;
   color: black;
