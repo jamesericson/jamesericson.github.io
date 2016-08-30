@@ -27,7 +27,7 @@ body {
 .name {
   display:inline;
   font-size: 60px;
-  margin: -5px;
+  line-height: 0.6;
   color: black;
 }
 
@@ -53,9 +53,15 @@ body {
   color:black;
 }
 
+.education {
+  line-height: 0.8;
+  border: 1px solid black;
+}
+
 p {
   font-family: futura;
   color: #9d9d9d;
 }
+
 
 
