@@ -54,13 +54,13 @@ body {
 }
 
 .education {
-  line-height: 0.5;
+  line-height: 0.3;
   border: 1px solid black;
 }
 
 .edu_location{
-  text-indent: 10px;
-  font-family: futura;
+  text-indent: 30px;
+  font-family: helvetica;
 }
 
 p {
