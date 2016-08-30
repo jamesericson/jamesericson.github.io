@@ -66,6 +66,7 @@ body {
 .edu_location{
   text-indent: 30px;
   font-family: helvetica;
+  display: inline;
 }
 
 p {
