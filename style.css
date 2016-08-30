@@ -61,12 +61,15 @@ body {
 .education {
   line-height: 0.3;
   margin-bottom: 30px;
-  display: inline;
 }
 
 .edu_location{
   text-indent: 30px;
   font-family: helvetica;
+  display: inline;
+}
+
+.year{
   display: inline;
 }
 
