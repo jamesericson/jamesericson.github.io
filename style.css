@@ -66,12 +66,13 @@ body {
 .edu_location{
   text-indent: 30px;
   font-family: helvetica;
-  display: inline;
-  
+}
+
+.loc {
+  display: inline;  
 }
 
 .year{
-  margin-right: 90px;
   position: relative; 
   float: right;
 }
