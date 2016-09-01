@@ -77,6 +77,14 @@ body {
   float: right;
 }
 
+.alignleft {
+	float: left;
+}
+
+.alignright {
+	float: right;
+}
+
 p {
   font-family: futura;
   color: #9d9d9d;
