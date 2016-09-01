@@ -67,10 +67,12 @@ body {
   text-indent: 30px;
   font-family: helvetica;
   display: inline;
+  text-decoration: none;
 }
 
 .year{
-  display: inline;
+  margin-right: 30px;
+  position: relative; 
 }
 
 p {
