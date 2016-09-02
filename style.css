@@ -49,13 +49,13 @@ body {
 
 .catigory {
   font-family: helvetica;
-  margin-top: 15;
   margin-left: -15px;
   color:black;
 }
 
 .exp_title{
   border: 2px solid #9d9d9d;
+  margin-top: 15;
   padding-left: 10px;
 }
 
