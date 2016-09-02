@@ -62,17 +62,13 @@ body {
   /*margin-bottom: 30px;*/
 }
 
-.edu_location{
-  text-indent: 30px;
-  font-family: helvetica;
-}
 
 .alignleft {
-	float: left;
+  float: left;
 }
 
 .alignright {
-	float: right;
+  float: right;
 }
 
 p {
