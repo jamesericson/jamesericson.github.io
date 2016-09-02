@@ -59,7 +59,8 @@ body {
 }
 
 .education {
-  /*margin-bottom: 30px;*/
+  margin-top: -10px;
+  margin-bottom: -10px;
 }
 
 
@@ -79,10 +80,5 @@ p {
 pre {
   font-family: futura;
   color: #9d9d9d;	
-}
-
-.education h4 {
-  font-family: futura;
-  color: #9d9d9d;
 }
 
