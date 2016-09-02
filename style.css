@@ -64,9 +64,11 @@ body {
   margin-bottom: 30px;*/
 }
 
+
 .edu_location{
   text-indent: 30px;
   font-family: helvetica;
+  margin: -30px;
 }
 
 .loc {
