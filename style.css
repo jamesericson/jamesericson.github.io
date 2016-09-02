@@ -49,6 +49,7 @@ body {
 
 .catigory {
   font-family: helvetica;
+  margin-top: 15;
   margin-left: -15px;
   color:black;
 }
@@ -60,7 +61,7 @@ body {
 
 .education {
   margin-top: -10px;
-  margin-bottom: -80px;
+  margin-bottom: -10px;
 }
 
 
