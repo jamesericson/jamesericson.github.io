@@ -16,19 +16,12 @@ body {
   background-color: white;
   margin: 160px;
   padding: 50px; 
-  min-width: 300px;
+  min-width: 500px;
   color: #9d9d9d;
 }
 
-body::before {
-  content: "";
-  position: absolute;
-  top: 0; 
-  left: 0;
-  width: 100%; 
-  height: 100%;  
-  opacity: .4; 
-  z-index: -1;
+body::before { 
+  opacity: .2; 
   background: url(background-pattern.png) top left repeat;
 }
 
@@ -42,15 +35,15 @@ header h1 {
   margin-left: 100px;
   margin-bottom: 30px;
   text-align: right;
-  display: inline;
   font-size: 60px;
   color: black;
 }
 
 
+
 .neon {
   position: absolute;
-  top: 200px;
+  top: 400px;
   right: 160px;
 }
 
