@@ -72,7 +72,7 @@ body {
   float: right;
 }
 
-p {
+p, li {
   font-family:'lato', futura;
   font-weight: bold;
   color: #9d9d9d;
