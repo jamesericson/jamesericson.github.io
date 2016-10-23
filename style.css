@@ -70,6 +70,7 @@ header h2 {
 p {
   text-align: center;
   font-family: 'roboto', futura, sans-serif;
+  margin-bottom: 12px;
 }
 
 a {
@@ -85,29 +86,31 @@ main h1 {
   font-family: 'lato', helvetica, sans-serif;
   font-weight: 700;
   font-size: 25px;
-  margin-left: -15px;
+  margin: 0 0 10px -15px;
   color:black;
 }
 
 .experience h2 {
-  border-radius: 8px;
+  border-radius: 11px;
   background-color: #dddddd;
   font-family: 'lato', helvetica, sans-serif;
   color: white;
   padding-left: 10px;
+  margin-bottom: 8px;
 }
 
 .experience h3 {
   font-family: 'lato', helvetica, sans-serif;
   font-weight: 400;
-  
+  margin-bottom: 4px;
 }
 
-main li {
+main ul {
   margin-left: 30px;
   font-family:'roboto', futura, sans-serif;
   font-weight: 100;
   font-size: 14px;
+  margin-bottom: 10px;
 }
 
 .education {
@@ -115,7 +118,7 @@ main li {
 }
 
 .education h2 {
-
+  margin-top: 10px;
 }
 
 .education h3 {
@@ -131,12 +134,16 @@ main li {
 }
 
 footer {
-  margin: 0 -55px -55px -55px;
+  border-top: 10px solid white;
+  margin: 0 -50px -50px -50px;
+  border-radius: 0 0 15px 15px;
   background-color: #dddddd;
   color: white;
 }
 
 footer h1 {
+  text-align: right;
+  padding-bottom: 60px; 
   font-family: 'lato', helvetica, sans-serif;
   font-weight: 700;
   font-size: 25px;
