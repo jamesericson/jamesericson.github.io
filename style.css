@@ -8,9 +8,7 @@ html, body, h1, h2, h3, p, ul, li, a {
 
 html {
   background-color: #f5f3ee;
-  background: url(background-pattern.png) top left repeat;
-  opacity: 0.30;
-  min-width: 500px;
+  min-width: 700px;
 }
 
 body {
@@ -32,21 +30,19 @@ header h1 {
   margin-left: 100px;
   margin-bottom: 30px;
   text-align: right;
-}
-
-.first-name, .last-name {
-  display:inline;
+  display: inline;
   font-size: 60px;
-  line-height: 0.7;
   color: black;
 }
+
+
 
 .neon {
   position: absolute;
   right: 160px;
 }
 
-header h3 {
+header h2 {
   margin-top: 80px;
   font-family: 'lato', times;
   font-size: 12px;
