@@ -38,7 +38,7 @@ body {
 
 .contact_info {
   margin-top: 80px;
-  font-family: times;
+  font-family: 'lato', times;
   font-size: 12px;
   text-align: center;
 }
@@ -48,7 +48,7 @@ body {
 }
 
 .catigory {
-  font-family: helvetica;
+  font-family: 'lato', helvetica;
   margin-left: -15px;
   color:black;
 }
@@ -73,12 +73,12 @@ body {
 }
 
 p {
-  font-family: futura;
+  font-family:'lato', futura;
   color: #9d9d9d;
 }
 
 pre {
-  font-family: futura;
+  font-family: 'lato', futura;
   color: #9d9d9d;	
 }
 
