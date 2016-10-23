@@ -72,6 +72,15 @@ p {
   font-family: 'roboto', futura, sans-serif;
 }
 
+a {
+  text-decoration: none;
+  color: #9d9d9d;
+}
+
+a:hover {
+  color: #999999;
+}
+
 main h1 {
   font-family: 'lato', helvetica, sans-serif;
   font-weight: 700;
@@ -106,11 +115,11 @@ main li {
 }
 
 .education h2 {
-  margin-left: 20px;
+
 }
 
 .education h3 {
-  margin-left: 20px;
+  margin-left: 25px;
 }
 
 .alignleft {
@@ -122,6 +131,7 @@ main li {
 }
 
 footer {
+  margin: 0 -55px -55px -55px;
   background-color: #dddddd;
   color: white;
 }
