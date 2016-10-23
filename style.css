@@ -8,8 +8,7 @@ html, body, h1, h2, h3, p, ul, li, a {
 
 html {
   background-color: #f5f3ee;
-  min-width: 700px;
-  background: url(background-pattern.png) top left repeat;
+  min-width: 500px;
 }
 
 body {
@@ -27,27 +26,27 @@ body {
   left: 45px;
 }
 
-header {
+.name {
+  margin-bottom: 30px;
   margin-left: 100px;
+  display: inline;
 }
 
 header h1 {
-  margin-bottom: 30px;
   text-align: right;
   font-size: 60px;
   color: black;
 }
 
-.first-name, .last-name {
-  display: inline;
-}
 
 .firstname{
+  font-family: 'lato', arial, helvetica;
   font-weight: 200;
 }
 
 .lastname{
-  font-weight: 900;
+  font-family: 'lato', arial, helvetica;
+  font-weight: 700;
 }
 
 .neon {
@@ -62,10 +61,6 @@ header h2 {
   margin-top: 80px;
   font-family: 'lato', times;
   font-size: 12px;
-  text-align: center;
-}
-
-.abstract {
   text-align: center;
 }
 
@@ -98,10 +93,5 @@ p, li {
   font-family:'lato', futura;
   font-weight: bold;
   color: #9d9d9d;
-}
-
-pre {
-  font-family: 'lato', futura;
-  color: #9d9d9d;	
 }
 
