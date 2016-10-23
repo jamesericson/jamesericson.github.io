@@ -172,8 +172,8 @@ input[type=submit] {
   float: right;
   margin: 10px 10px 0 0;
   background-color: #666666;
-  color: white;
-  padding: 4px 30px 4px 30px;
+  color: red;
+  padding: 4px 70px 4px 70px;
   border-radius: 0;
 }
 
