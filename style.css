@@ -59,7 +59,7 @@ header h1 {
 }
 
 header h2 {
-  margin-top: 65px;
+  margin: 55px 0 20px 0;
   font-family: 'roboto', times;
   font-weight: 100;
   font-size: 10px;
@@ -81,7 +81,7 @@ main h1 {
 }
 
 .experience h2 {
-  border-radius: 15px;
+  border-radius: 8px;
   background-color: #dddddd;
   font-family: 'lato', helvetica, sans-serif;
   color: white;
@@ -102,9 +102,16 @@ main li {
 }
 
 .education {
-
+  font-family: 'roboto', futura, sans-serif;
 }
 
+.education h2 {
+  margin-left: 20px;
+}
+
+.education h3 {
+  margin-left: 20px;
+}
 
 .alignleft {
   float: left;
@@ -114,11 +121,13 @@ main li {
   float: right;
 }
 
-main li {
-  margin-left: 30px;
-  font-family:'roboto', futura, sans-serif;
-  font-weight: 100;
-  font-size: 14px;
-  color: #9d9d9d;
+footer {
+  background-color: #dddddd;
+  color: white;
 }
 
+footer h1 {
+  font-family: 'lato', helvetica, sans-serif;
+  font-weight: 700;
+  font-size: 25px;
+}
