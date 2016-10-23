@@ -29,8 +29,7 @@ body::before {
   height: 100%;  
   opacity: .4; 
   z-index: -1;
-  background: url(background-pattern.png);
-  background-repeat: repeat;
+  background: url(background-pattern.png) top left repeat;
 }
 
 .portrait {
