@@ -53,7 +53,6 @@ header h1 {
   width:120px; 
   height:20px;
   position: absolute;
-  margin-top: 15px;
   right: 160px;
 }
 
@@ -65,23 +64,23 @@ header h2 {
   text-align: center;
 }
 
-main p {
+p {
   text-align: center
   font-family: 'roboto', futura, sans-serif;
   color: #9d9d9d;
 }
 
-main h1 {
+.experience h1 {
   font-family: 'lato', helvetica, sans-serif;
   font-weight: 700;
-  font-size: 18px;
+  font-size: 20px;
   margin-left: -15px;
   color:black;
 }
 
-main h2 {
+.experience h2 {
   border-radius: 15px;
-  background-color: #666666;
+  background-color: #aaaaaa;
   font-family: 'lato', helvetica, sans-serif;
   color: white;
   padding-left: 10px;
@@ -102,8 +101,10 @@ main h2 {
 }
 
 main li {
+  margin-left: 30px;
   font-family:'roboto', futura, sans-serif;
-  font-weight: 400;
+  font-weight: 100;
+  font-size: 14px;
   color: #9d9d9d;
 }
 
