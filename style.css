@@ -53,25 +53,37 @@ header h1 {
   width:120px; 
   height:20px;
   position: absolute;
-  margin-top: 40px;
+  margin-top: 15px;
   right: 160px;
 }
 
 header h2 {
   margin-top: 80px;
-  font-family: 'lato', times;
+  font-family: 'roboto', times;
+  font-weight: 300;
   font-size: 12px;
   text-align: center;
 }
 
-.catigory {
-  font-family: 'lato', helvetica;
+main p {
+  text-align: center
+  font-family: 'roboto', futura, sans-serif;
+  color: #9d9d9d;
+}
+
+main h1 {
+  font-family: 'lato', helvetica, sans-serif;
+  font-weight: 700;
+  font-size: 18px;
   margin-left: -15px;
   color:black;
 }
 
-.exp_title{
-  border: 2px solid #9d9d9d;
+main h2 {
+  border-radius: 15px;
+  background-color: #666666;
+  font-family: 'lato', helvetica, sans-serif;
+  color: white;
   padding-left: 10px;
 }
 
@@ -89,9 +101,9 @@ header h2 {
   float: right;
 }
 
-p, li {
-  font-family:'lato', futura;
-  font-weight: bold;
+main li {
+  font-family:'roboto', futura, sans-serif;
+  font-weight: 400;
   color: #9d9d9d;
 }
 
