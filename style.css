@@ -65,7 +65,7 @@ header h2 {
 }
 
 p {
-  text-align: center
+  text-align: center;
   font-family: 'roboto', futura, sans-serif;
   color: #9d9d9d;
 }
