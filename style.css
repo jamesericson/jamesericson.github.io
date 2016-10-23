@@ -137,6 +137,7 @@ main ul {
 footer {
   border-top: 40px solid white;
   margin: 0 -50px -50px -50px;
+  padding: 0 50px 50px 50px;
   border-radius: 0 0 15px 15px;
   background-color: #dddddd;
   color: white;
@@ -152,4 +153,9 @@ footer h1 {
 
 label, input {
   display: block;
+  font-family: 'roboto', times;
+  font-weight: 100;
+  font-size: 10px;
+  text-align: center;
+  color: black;
 }
