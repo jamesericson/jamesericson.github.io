@@ -157,8 +157,8 @@ label, input {
 }
 
 input {
-  margin: 0 100% 0 100%;
   border-radius: 8px;
+  border: none; 
 }
 
 textarea {
@@ -169,7 +169,7 @@ textarea {
 }
 
 label {
-  margin: 0 20px 10px 20px;
+  margin: 0 20px 5px 20px;
   font-family: 'roboto', times;
   font-weight: 100;
   font-size: 10px;
