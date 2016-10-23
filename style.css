@@ -9,6 +9,7 @@ html, body, h1, h2, h3, p, ul, li, a {
 html {
   background-color: #f5f3ee;
   min-width: 700px;
+  background: url(background-pattern.png) top left repeat;
 }
 
 body {
@@ -16,16 +17,8 @@ body {
   background-color: white;
   margin: 160px;
   padding: 50px; 
-  min-width: 500px;
+  min-width: 300px;
   color: #9d9d9d;
-}
-
-body::before { 
-  content: "";
-  height: 100%;
-  width: 100%;
-  opacity: .2; 
-  background: url(background-pattern.png) top left repeat;
 }
 
 .portrait {
@@ -34,8 +27,11 @@ body::before {
   left: 45px;
 }
 
-header h1 {
+header {
   margin-left: 100px;
+}
+
+header h1 {
   margin-bottom: 30px;
   text-align: right;
   font-size: 60px;
@@ -44,6 +40,14 @@ header h1 {
 
 .first-name, .last-name {
   display: inline;
+}
+
+.firstname{
+  font-weight: 200;
+}
+
+.lastname{
+  font-weight: 900;
 }
 
 .neon {
