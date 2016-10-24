@@ -9,7 +9,22 @@ html, body, h1, h2, h3, p, ul, li, a {
 html {
   background-color: #f5f3ee;
   min-width: 500px;
-  background: url(background-pattern.png) top left repeat;
+}
+
+.container {
+    position: relative;
+}
+
+.container::before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: url(background-pattern.png) top left repeat;
+    opacity: .9;
+    content: "";
+    z-index: -1;
 }
 
 body {
